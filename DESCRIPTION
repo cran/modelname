@@ -1,0 +1,25 @@
+Package: modelname
+Title: Parse AI Model Names into Vendor, Family and Version
+Version: 0.1.0
+Authors@R: person("Nour", "Ayman", email = "nourayman850@gmail.com",
+    role = c("aut", "cre", "cph"))
+Description: Splits the identifiers and display names that AI labs give
+    their models, such as 'claude-opus-4-1-20250805', 'gpt-4.1-mini' or
+    'Gemini 3.1 Pro Preview', into vendor, family, version, parameter size,
+    release date and tags. Old and new naming schemes from 'Anthropic',
+    'OpenAI', 'Google' and 'OpenRouter' land in the same family, so models
+    can be compared and the newest one in a family picked from a list. A
+    port of the 'Go' module 'modelname'
+    <https://pkg.go.dev/github.com/BoNour/modelname>.
+License: MIT + file LICENSE
+URL: https://whizi.io/models/, https://github.com/BoNour/modelname-r
+BugReports: https://github.com/BoNour/modelname-r/issues
+Depends: R (>= 3.5.0)
+Suggests: tinytest
+Encoding: UTF-8
+NeedsCompilation: no
+Packaged: 2026-10-07 03:51:09 UTC; BoNour
+Author: Nour Ayman [aut, cre, cph]
+Maintainer: Nour Ayman <nourayman850@gmail.com>
+Repository: CRAN
+Date/Publication: 2026-10-16 13:20:15 UTC

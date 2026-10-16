@@ -1,0 +1,15 @@
+0252d268e6473b3cbc3c35cffbaec62f *DESCRIPTION
+028173a3aee3cd3389bd3d253855642b *LICENSE
+7f4f95efa430214dc637a6eff0f0ea60 *NAMESPACE
+43991f0472622d31006fe7415d6ffff4 *NEWS.md
+e28e128cacbb17f032893149d40ed660 *R/compare.R
+752868ff4f391cdf7889ff0092f80ffd *R/parse.R
+bb01c9f55cbee4d34e830cc76a93c22d *R/vendor.R
+fc0ee67b88f7328aac1c9e6e4e4f9dae *README.md
+c1acbf8e675ca9e2c6528dd82bed6e7b *inst/tinytest/test_modelname.R
+ab246c00e1b179fc0051c4aa3fc0c302 *man/compare_models.Rd
+4014bcba863ff136ea1a4e5e4a79463b *man/latest_model.Rd
+774492211b0eddf1bdbf43d884fdd215 *man/modelname-package.Rd
+24c404c4016869e51fc64dce3aff0a9f *man/parse_model.Rd
+b9b044bec3e7d15c88d1170ce463b14e *man/same_family.Rd
+484d351efa5cd0db3695444d9fcc7507 *tests/tinytest.R
